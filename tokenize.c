@@ -1,5 +1,3 @@
-//// This code is by partners James Daoud and Lee Tamir
-// Code to include standard libraries for code
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
